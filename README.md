@@ -17,11 +17,11 @@
 
 ### Train
 
-`python3 src/sentiment_analysis/train.py`
+`python3 train.py`
 
 ### Predict
 
-`python3 src/sentiment_analysis/myapp.py`
+`python3 myapp.py`
 
 > `{
     "sentiment": "Positive"
